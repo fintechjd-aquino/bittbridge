@@ -163,3 +163,9 @@ testing/
 
 # Editors
 .vscode/settings.json
+
+# A11 local/cache files
+miner_model_energy/cache/
+# Miner wallet/private local files
+# Miner wallet/
+*.save

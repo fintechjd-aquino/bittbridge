@@ -1,0 +1,7 @@
+# Number of 5-minute steps for moving average (12 = 1 hour)
+N_STEPS = 24
+
+
+
+
+
